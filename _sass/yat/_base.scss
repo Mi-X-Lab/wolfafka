@@ -14,8 +14,9 @@ dl, dd, ol, ul, figure {
  * Basic styling
  */
 body {
-  font-family: $base-font-family;
-  // "../../webfonts/JetBrainsMono-Light.woff2";
+  font-family: "../../webfonts/JetBrainsMono-Light.woff2";
+  //$base-font-family;
+  // 
   font-weight: $base-font-weight;
   font-size: #{$base-font-size};
   font-display: swap;
